@@ -4,15 +4,16 @@ Markdown is an and easy-to-use markup language or syntax for formatting text to 
 There are several web-based applications that use Markdown, but we will be using GitHub. The applications convert Markdown formatted text to HTML, so that it can be displayed in a web browser.
 
 ## Headers
-# H1 Heading level 1
-### H3 Heading level 3
-###### H6 Heading level 6
+# H1 - Heading level 1
+### H3 - Heading level 3
+###### H6 - Heading level 6
 
 ## Bold
 **This text will be bold**
 
 ## Italic
 *This text will be italic*
+
 **This text is bold _with italic_ in the middle**
 
 ## Unordered Lists
