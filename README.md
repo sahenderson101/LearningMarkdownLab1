@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+Markdown is an and easy-to-use markup language or syntax for formatting text to be published on the Internet. It can be used to bold or italicize words, and for adding images and creating lists. 
+There are several web-based applications that use Markdown, but we will be using GitHub. The applications convert Markdown formatted text to HTML, so that it can be displayed in a web browser.
 
-You can use the [editor on GitHub](https://github.com/sahenderson101/LearningMarkdownLab1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Headers
+# H1 <h1> Heading level 1
+### H3 <h3> Heading level 3
+###### H6 <h6> Heading level 6
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bold
+**This text will be bold**
 
-### Markdown
+Italic
+*This text will be italic*
+**This text is bold _with italic_ in the middle**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Unordered Lists
+* unordered list
+* unordered list
+* unordered list
 
-```markdown
-Syntax highlighted code block
+Or
+- unordered list
+- unordered list
+- unordered list
 
-# Header 1
-## Header 2
-### Header 3
+Ordered List
+1. ordered list
+1. ordered list
+1. ordered list
+   
+Inline link
+[Inline link](http://www.google.com)
+Image
+![logo] (https://github.com/logo.png
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sahenderson101/LearningMarkdownLab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> A blockquote would look great here
